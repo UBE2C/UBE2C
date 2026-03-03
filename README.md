@@ -33,7 +33,7 @@ MS/MS, FACS and scRNA-sequencing.
 
 Bakos, G., Yu, L., Gak, I.A. et al. An E2-ubiquitin thioester-driven approach to identify substrates modified with ubiquitin and ubiquitin-like molecules. [Nat Commun 9, 4776 (2018)](https://doi.org/10.1038/s41467-018-07251-5)
 
-
+Bakos, Gábor et al. EpCAM–PSMA: Potential predictors of treatment outcomes for PSMA-targeted alpha therapies in metastatic castration-resistant prostate cancer. [Molecular Therapy Oncology, Volume 34, Issue 1, 201143 (2026)](https://www.cell.com/molecular-therapy-family/oncology/fulltext/S2950-3299(26)00019-6)
 
 
 
